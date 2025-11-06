@@ -1,0 +1,20 @@
+{
+  "name": "companychatbotrag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/community": "^1.0.0",
+    "@langchain/core": "^1.0.2",
+    "@langchain/textsplitters": "^1.0.0",
+    "groq-sdk": "^0.34.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
